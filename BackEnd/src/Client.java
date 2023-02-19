@@ -5,7 +5,6 @@ import java.util.*;
 
 // Client class
 class Client {
-	
 	// driver code
 	public static void main(String[] args)
 	{
